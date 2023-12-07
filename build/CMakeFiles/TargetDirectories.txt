@@ -1,0 +1,4 @@
+/home/andrey/lab_3_FSA/build/CMakeFiles/main.dir
+/home/andrey/lab_3_FSA/build/CMakeFiles/machine.dir
+/home/andrey/lab_3_FSA/build/CMakeFiles/edit_cache.dir
+/home/andrey/lab_3_FSA/build/CMakeFiles/rebuild_cache.dir

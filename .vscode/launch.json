@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/andrey/lab3mt",
-      "program": "/home/andrey/lab3mt/build/Debug/outDebug",
+      "cwd": "/home/andrey/lab_3_FSA",
+      "program": "/home/andrey/lab_3_FSA/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
